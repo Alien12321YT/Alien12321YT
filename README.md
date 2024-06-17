@@ -1,6 +1,6 @@
 # Hey, I'm Malkist!
 
-- I'm an aspiring programmer that codes stuff in Node.js, Python, and some web frameworks like React and Vue.js.
+- I'm an aspiring programmer that codes stuff in Node.js, Python, Go, and some web frameworks like Vue.js and Solid.
 - I'm quite new to contributing to open-source projects.
 
 My Website: [malkist.dev](https://malkist.dev)
